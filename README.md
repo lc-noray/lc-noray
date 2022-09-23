@@ -19,6 +19,7 @@ public class NicoNicoNi-Host (){
 - WeChat account search: **loko67** 👈🍧🍭
 
 ## 🍻 Tec Stacks
+![snak](https://raw.githubusercontent.com/mt-black/mt-black/main/assets/github-contribution-grid-snake.svg)
 ![MT-Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=MT-Black&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MT-Black&theme=monokai)
 <p align='left'>
