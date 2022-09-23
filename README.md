@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![MT-Black's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MT-Black&layout=compact&hide_border=true&langs_count=10)
 
-![About me](https://github-readme-stats.vercel.app/api?username=mt-black&show_icons=true&show_icons=true)
+![MT-Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=MT-Black&show_icons=true&theme=radical)
