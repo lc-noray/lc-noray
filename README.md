@@ -1,5 +1,7 @@
 ## 👋 Hi I'm MT-Black
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Welcome+to+MT-Black's+GitHub)](https://git.io/typing-svg)
+
 ![](./svg%20file/profile-night-rainbow.svg)
 
 <img align="right" width="300" src="./svg%20file/123.gif" />
