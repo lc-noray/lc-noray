@@ -1,6 +1,6 @@
 ## 👋 Hi I'm MT-Black
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Welcome+to+MT-Black's+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Welcome+to+MT-Black's+GitHub)](https://lcoo.cc)
 
 <!-- https://git.io/typing-svg -->
 
