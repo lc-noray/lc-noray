@@ -1,6 +1,8 @@
 ## 👋Hi I'm MT-Black
-![](./svg file/profile-night-rainbow.svg)
-<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+
+![](./svg%20file/profile-night-rainbow.svg)
+
+<img align="right" width="300" src="./svg%20file/123.gif" />
 
 ```java
 public class NicoNicoNi-Host (){
@@ -15,4 +17,5 @@ public class NicoNicoNi-Host (){
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MT-Black&theme=monokai)
 <p align='left'>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-black&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mt-black&show_icons=true&theme=tokyonight" alt="light-city's top langs"/>
 </p>
