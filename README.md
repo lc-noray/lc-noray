@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**MT-Black/MT-Black** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MT-Black/MT-Black** This is a ✨ _special_ ✨ repository of mine 
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![MT-Black's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MT-Black&layout=compact&hide_border=true&langs_count=10)
 
 ![About me](https://github-readme-stats.vercel.app/api?username=mt-black&show_icons=true&show_icons=true)
