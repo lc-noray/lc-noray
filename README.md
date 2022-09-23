@@ -1,19 +1,18 @@
-### Hi there 👋
+## 👋Hi I'm MT-Black
+![](./svg file/profile-night-rainbow.svg)
+<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
-
-**MT-Black/MT-Black** This is a ✨ _special_ ✨ repository of mine 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![MT-Black's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MT-Black&layout=compact&hide_border=true&langs_count=10)
+```java
+public class NicoNicoNi-Host (){
+    var e = "Programmer Developer";
+ 
+    var langs = "ALGUMAS LINGUAGENS";
+    String[] l = new String[6] {"JAVA", "C", "JavaScript", "Kotlin", "Python", "Linux"};
+}
+```
 
 ![MT-Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=MT-Black&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MT-Black&theme=monokai)
+<p align='left'>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-black&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
+</p>
