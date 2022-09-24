@@ -4,9 +4,9 @@
 
 <!-- https://git.io/typing-svg -->
 
-![](./svg%20file/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img align="right" width="300" src="./svg%20file/123.gif" />
+<img align="right" width="300" src="./img/123.gif" />
 
 ## 🍷 Love learning
 ```java
@@ -23,7 +23,7 @@ public class NicoNicoNi-Host (){
 - WeChat account search: **loko67** 👈🍧🍭
 
 ## 🍻 Tec Stacks
-![snak](https://raw.githubusercontent.com/mt-black/mt-black/main/assets/github-contribution-grid-snake.svg)
+![snak](.assets/github-contribution-grid-snake.svg)
 ![MT-Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=MT-Black&show_icons=true&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MT-Black&theme=monokai)
 <p align='left'>
