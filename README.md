@@ -1,6 +1,6 @@
-## 👋 Hi I'm MT-Black
+## 👋 Hi I'm lc-noray
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Welcome+to+MT-Black's+GitHub)](https://lcoo.cc)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Welcome+to+lc-noray's+GitHub)](https://lcoo.cc)
 
 <!-- https://git.io/typing-svg -->
 
@@ -24,14 +24,14 @@ public class NicoNicoNi-Host (){
 
 ## 🍻 Tec Stacks
 ![snak](./assets/github-contribution-grid-snake.gif)
-![MT-Black's GitHub stats](https://github-readme-stats.vercel.app/api?username=MT-Black&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MT-Black&theme=monokai)
+![lc-noray's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-noray&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lc-noray&theme=monokai)
 <p align='left'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-black&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mt-black&show_icons=true&theme=tokyonight" alt="light-city's top langs"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-noray&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=lc-noray&show_icons=true&theme=tokyonight" alt="light-city's top langs"/>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=mt-black&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=lc-noray&theme=github)
 
 ## 🌈 Platforms
 ![](https://camo.githubusercontent.com/5b7886225855c2c5ac8bcc15effcb289c238c597680d61c24e5e7541af59ee10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)
