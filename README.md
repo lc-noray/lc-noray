@@ -1,6 +1,6 @@
-## 👋 Hi I'm lc-noray
+## 👋 Hi I'm oao-Lucian
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Welcome+to+lc-noray's+GitHub)](https://lcoo.cc)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724B7&width=435&lines=Welcome+to+oao-Lucian's+GitHub)](https://lcoo.cc)
 
 <!-- https://git.io/typing-svg -->
 
@@ -18,20 +18,20 @@ public class NicoNicoNi-Host (){
 }
 ```
 ## 🍗 Find Me
-- Click [**Email**](mailto:mt@lcoo.cc)
-- Click [**Blog**](https://lcoo.cc)
+- Click [**Email**](mailto:1@oao.cc)
+- Click [**Blog**](https://oao.cc)
 - WeChat account search: **loko67** 👈🍧🍭
 
 ## 🍻 Tec Stacks
 ![snak](./assets/github-contribution-grid-snake.gif)
-![lc-noray's GitHub stats](https://github-readme-stats.vercel.app/api?username=lc-noray&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lc-noray&theme=monokai)
+![lc-noray's GitHub stats](https://github-readme-stats.vercel.app/api?username=oao-lucian&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oao-lucian&theme=monokai)
 <p align='left'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc-noray&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=lc-noray&show_icons=true&theme=tokyonight" alt="light-city's top langs"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oao-lucian&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=oao-lucian&show_icons=true&theme=tokyonight" alt="light-city's top langs"/>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=lc-noray&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=oao-lucian&theme=github)
 
 ## 🌈 Platforms
 ![](https://camo.githubusercontent.com/5b7886225855c2c5ac8bcc15effcb289c238c597680d61c24e5e7541af59ee10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465)
